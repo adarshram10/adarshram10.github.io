@@ -24,7 +24,7 @@ const ProjectCardData =[
         title: "Restaurant Listing-App",
         text: "Restaurant Listing-App details",
         view: "https://restaurant-five-silk.vercel.app/",
-        source:"https://github.com/adarshram10/restaurant.git"
+        source:"https://github.com/adarshram10/restaurant"
     },
 ];
 export default ProjectCardData 
